@@ -18,9 +18,10 @@ services:
     #  # Part for optional traefik middlewares
     #  - traefik.http.routers.cs2rcon.middlewares=authentik@docker
 
-  #########################################
-  ### Example CS2 server as docker below
-  #########################################
+  #########################################################################
+  ## Desc: Example CS2 server as docker below
+  ## Info: You can use `cs2-server` as server name/ip in the rcon panel
+  #########################################################################
   
   #cs2-server:
   #  image: joedwards32/cs2
