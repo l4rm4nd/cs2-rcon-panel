@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.4...v1.0.5) (2025-07-17)
+
+
+### Bug Fixes
+
+* disable cheats ([e46a5dc](https://github.com/l4rm4nd/cs2-rcon-panel/commit/e46a5dcccd83812c4c04051e1d8f4f3390736645))
+
 ## [1.0.4](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.3...v1.0.4) (2025-07-17)
 
 
