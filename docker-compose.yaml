@@ -64,5 +64,9 @@ services:
   #    - "27015:27015/tcp"           # TCP
   #    - "27015:27015/udp"           # UDP
 
+#networks:
+#  cs2:
+#    external: true
+
 #volumes:
 #  cs2:      
