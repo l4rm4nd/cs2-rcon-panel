@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.7...v1.0.8) (2025-07-17)
+
+
+### Bug Fixes
+
+* add option for custom username and password ([4ec060b](https://github.com/l4rm4nd/cs2-rcon-panel/commit/4ec060b671ab72b62239fa5ab47b8079bce0152c))
+
 ## [1.0.7](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.6...v1.0.7) (2025-07-17)
 
 
@@ -25,11 +32,4 @@
 ### Bug Fixes
 
 * missing brackets ([3e35dfc](https://github.com/l4rm4nd/cs2-rcon-panel/commit/3e35dfc8b8876100c7ceed356cd23d0f61c0e722))
-
-## [1.0.3](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.2...v1.0.3) (2025-07-17)
-
-
-### Bug Fixes
-
-* add more game modes ([cfee8b7](https://github.com/l4rm4nd/cs2-rcon-panel/commit/cfee8b7830ed3113b53ac663c1e101e740dcdc92))
 
