@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.3...v1.0.4) (2025-07-17)
+
+
+### Bug Fixes
+
+* missing brackets ([3e35dfc](https://github.com/l4rm4nd/cs2-rcon-panel/commit/3e35dfc8b8876100c7ceed356cd23d0f61c0e722))
+
 ## [1.0.3](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.2...v1.0.3) (2025-07-17)
 
 
