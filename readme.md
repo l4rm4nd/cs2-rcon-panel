@@ -10,7 +10,7 @@
 - Run `npm install` in the root project folder
 - Run `npm install -g nodemon` to install nodemon
 - Run `nodemon app.js` in the root project folder
-- Default login credentials can be changed via environment variables `USERNAME` and `PASSWORD`.
+- Default login credentials can be changed via environment variables `USERNAME` and `PASSWORD` or directly in `db.js`.
 
 ## Abilities 
 
