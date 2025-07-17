@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.6...v1.0.7) (2025-07-17)
+
+
+### Bug Fixes
+
+* Update game.js ([685b858](https://github.com/l4rm4nd/cs2-rcon-panel/commit/685b85806440b283cdcf6f01d0b1f3117e452237))
+
 ## [1.0.6](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.5...v1.0.6) (2025-07-17)
 
 
@@ -25,11 +32,4 @@
 ### Bug Fixes
 
 * add more game modes ([cfee8b7](https://github.com/l4rm4nd/cs2-rcon-panel/commit/cfee8b7830ed3113b53ac663c1e101e740dcdc92))
-
-## [1.0.2](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.1...v1.0.2) (2025-07-17)
-
-
-### Bug Fixes
-
-* add placeholders ([e6e3a9b](https://github.com/l4rm4nd/cs2-rcon-panel/commit/e6e3a9b8600e351d9006204c56393d27665f1312))
 
