@@ -3,14 +3,14 @@
 ## Usage (Using Docker)
 - Run `docker-compose up` to start the container
 - Navigate to localhost:3000 to start using the panel
-- Default login credentials can be changed from db.js
+- Default login credentials can be changed via [environment variables](https://github.com/l4rm4nd/cs2-rcon-panel/blob/master/docker-compose.yaml#L8-L10).
 
 ## Usage (Without Docker)
 - Install NodeJS 18.0 or higher
 - Run `npm install` in the root project folder
 - Run `npm install -g nodemon` to install nodemon
 - Run `nodemon app.js` in the root project folder
-- Default login credentials can be changed from db.js
+- Default login credentials can be changed via environment variables `USERNAME` and `PASSWORD`.
 
 ## Abilities 
 
