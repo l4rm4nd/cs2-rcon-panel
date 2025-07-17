@@ -1,6 +1,6 @@
 {
   "name": "cs2panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RCON Web Panel to control CS2 Servers.",
   "main": "index.js",
   "scripts": {
