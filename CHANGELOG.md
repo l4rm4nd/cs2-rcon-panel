@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.2...v1.0.3) (2025-07-17)
+
+
+### Bug Fixes
+
+* add more game modes ([cfee8b7](https://github.com/l4rm4nd/cs2-rcon-panel/commit/cfee8b7830ed3113b53ac663c1e101e740dcdc92))
+
 ## [1.0.2](https://github.com/l4rm4nd/cs2-rcon-panel/compare/v1.0.1...v1.0.2) (2025-07-17)
 
 
