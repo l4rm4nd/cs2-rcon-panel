@@ -5,6 +5,9 @@ services:
     container_name: rcon-panel
     ports:
       - 3000:3000/tcp # web panel
+    environment:
+      - USERNAME=cspanel
+      - PASSWORD=v67ic55x4ghvjfj
     expose:
       - 3000
     restart: unless-stopped
