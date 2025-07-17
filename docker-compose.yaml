@@ -6,8 +6,8 @@ services:
     ports:
       - 3000:3000/tcp # web panel
     environment:
-      - USERNAME=cspanel
-      - PASSWORD=v67ic55x4ghvjfj
+      - USERNAME=cspanel # define your username for login
+      - PASSWORD=v67ic55x4ghvjfj # define your password for login
     expose:
       - 3000
     restart: unless-stopped
