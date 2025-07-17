@@ -29,11 +29,7 @@ router.post('/api/setup-game', is_authenticated, async (req, res) => {
             execute_cfg_on_server(server_id, './cfg/live.cfg');
         } else if (game_mode == "2") {
             execute_cfg_on_server(server_id, './cfg/live_wingman.cfg');
-        } else if (game_mode == "3") {
-            execute_cfg_on_server(server_id, './cfg/nade_training.cfg');
-        } else if (game_mode == "4") {
-            execute_cfg_on_server(server_id, './cfg/deathmatch.cfg');
-        }
+        } 
         // rcon.rcons[server_id].execute(`mp_warmup_pausetimer 1`);
         // rcon.rcons[server_id].execute(`changelevel ${selected_map}`);
         await rcon.execute_command(server_id, `mp_warmup_pausetimer 1`);
